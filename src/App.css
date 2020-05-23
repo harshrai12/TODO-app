@@ -1,0 +1,35 @@
+.todo-list{
+  text-align: center;
+  padding:10%;
+  font-size: 240%;
+  color: aliceblue;
+  font-family: 'Indie Flower', cursive;
+}
+.app{
+  background-image: linear-gradient(to top, #5f72bd 0%, #9b23ea 100%);
+  height: 10000px;
+}
+.button1 {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  border-radius: 8px;
+  background-color: rgb(9, 131, 218);
+}
+
+.button2 {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  border-radius: 8px;
+  background-color: rgb(255, 7, 7);
+}
+.input[type=text] {
+  border: none;
+  color: aliceblue;
+  background-color: transparent;
+  border-bottom: 2px solid rgb(255, 255, 255);
+  text-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+.task{
+  padding-top: 5%;
+ text-align: center; 
+ font-size: 142%;
+}
